@@ -1,0 +1,78 @@
+body {
+  background-color: DarkSalmon;
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+}
+
+h1{
+  font-style:italic;
+  font-size: 25px;
+  color: #251204;
+  margin: 0;
+}
+
+h2{
+  font-family: 'Redressed', cursive;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+.bc{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+p {
+  margin-top: 0;
+ font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+
+}
+ol{
+  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+}
+.one {
+  margin-left: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.tiger{
+  margin: 20px;
+  position: relative;
+  right:700px;
+}
+
+.engineer{
+  width: 7%;
+}
+
+.Hobbies{
+  width: 6%;
+}
+
+.call{
+  width: 5%;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  width: 10%;
+}
+
+.profile{
+  width: 15%;
+}
